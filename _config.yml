@@ -1,4 +1,4 @@
-markdown: GFM
-theme: jekyll-theme-midnight
+markdown: kramdown
+theme: jekyll-theme-minima
 name: SSIS Lab Instructions
 title: null
