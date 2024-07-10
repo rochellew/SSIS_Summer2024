@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # CSCI 3020 - Working with ETL 
 
 ## Checklist
